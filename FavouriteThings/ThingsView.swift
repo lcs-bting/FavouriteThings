@@ -32,7 +32,7 @@ struct ThingsView: View {
                     .scaledToFit()
                     .frame(width: 330.0)
                 
-                Text("Military, the shield of the countery, I love and respect every single person who contributes themselves. \n\n ")
+                Text("Military, the shield of the country, I love and respect every single person who contributes themselves. \n\n ")
                     .frame(width: 330.0)
                 
                 
